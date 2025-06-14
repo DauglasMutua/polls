@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Django
+*.log
+db.sqlite3
+media/
+staticfiles/
+
+# Environments
+.env
+venv/
+myenv/
+ENV/
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Backup
+_backup_duplicates/
+
+# Misc
+*.bak
+*.swp
+*.swo
+
+# Ignore node_modules if any
+node_modules/
